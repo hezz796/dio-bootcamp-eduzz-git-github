@@ -1,2 +1,2 @@
-# dio-bootcamp-eduzz-git-github
+# Bootcamp DIO Eduzz
 Anotações sobre Git/GitHub
